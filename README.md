@@ -17,6 +17,7 @@ I am currently working as a developer for a hosting company and these are some o
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
 
 And these are some technologies that i like to use on my personal projects:
 
@@ -27,7 +28,19 @@ And these are some technologies that i like to use on my personal projects:
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></img>
 
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Tromineo&show_icons=true&hide=html&theme=react" alt="leorodrigues"/>
+<br>
+  <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tromineo&show_icons=true&hide=html&theme=react&layout=compact" alt="leorodrigues"/>
+</p>
 
+<b>You can also find me at:
+<br>
+<span>  
+<a href="https://www.linkedin.com/in/rodrigo-monteiro-134a51139/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://www.instagram.com/montr0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+</span>
 <!--
 **Tromineo/Tromineo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

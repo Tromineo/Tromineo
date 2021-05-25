@@ -28,11 +28,8 @@ And these are some technologies that i like to use on my personal projects:
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></img>
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tromineo&show_icons=true&hide=html&theme=react" alt="leorodrigues"/>
-<br>
-  <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tromineo&show_icons=true&hide=html&theme=react&layout=compact" alt="leorodrigues"/>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tromineo&show_icons=true&hide=html&theme=react&layout=compact" alt="tromineo"/>
 </p>
 
 <b>You can also find me at:

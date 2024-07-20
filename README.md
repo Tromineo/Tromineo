@@ -3,7 +3,7 @@
 #  Oi! Eu sou o Rodrigo! <img src="https://octodex.github.com/images/spidertocat.png" width="15%"></img>
  
 
-<p align="center">Um desenvolvedor que busca agregar algum valor para negócios e influenciar positivamente minha comunidade através das ferramentas que tenho a disposição e do compartilhamento das minhas experiências. :earth_americas: </p>
+<p align="center">Sou um desenvolvedor dedicado a agregar valor ao negócio através da concepção, implementação e manutenção de soluções que resolvam problemas específicos. Tenho um forte compromisso com a segurança e qualidade de software e através de técnicas e ferramentas como gravação de logs das operações realizadas ou testes automatizados me auxiliam nesse âmbito.</p>
 
 ##
 

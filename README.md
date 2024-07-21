@@ -3,12 +3,7 @@
 #  Oi! Eu sou o Rodrigo! <img src="https://octodex.github.com/images/spidertocat.png" width="15%"></img>
  
 
-<p align="center">    Sou um desenvolvedor dedicado a agregar valor ao negócio através da concepção, implementação e manutenção de soluções que resolvam problemas específicos. 
-    Tenho também um forte compromisso com a segurança e qualidade de software e através de técnicas e ferramentas como gravação de logs das operações realizadas ou testes automatizados me auxiliam nesse âmbito.</p>
-
 ##
-
-Atualmente trabalho em uma empresa de tecnologia que fornece diversos serviços e essas são algumas das tecnologias que uso no meu dia-a-dia:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>

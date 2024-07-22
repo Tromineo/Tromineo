@@ -3,8 +3,8 @@
 #  Oi! Eu sou o Rodrigo! <img src="https://octodex.github.com/images/spidertocat.png" width="15%"></img>
  
 
-##
-
+#
+<span>Essas são algumas tecnologias que eu gosto de utilizar no meu dia a dia: </span>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>

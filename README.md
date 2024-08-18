@@ -1,7 +1,7 @@
 
 #  Oi! Eu sou o Rodrigo! <img src="https://octodex.github.com/images/spidertocat.png" width="15%"></img>
  
-<span>Essas são algumas tecnologias que eu gosto de utilizar no meu dia a dia: </span>
+<span>Sou um desenvolvedor de software e essas são algumas tecnologias que eu gosto de utilizar no meu dia a dia: </span>
 #
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white"></img>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></img>
-
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tromineo&show_icons=true&hide=html&theme=react&layout=compact" alt="tromineo"/>

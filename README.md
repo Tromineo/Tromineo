@@ -42,6 +42,10 @@
 <span>  
 <a href="https://www.linkedin.com/in/rodrigo-monteiro-134a51139/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </span>
+<span>
+<a href="https://x.com/tromineo/"><img src="https://img.shields.io/twitter/follow/tromineo"></img></a>
+</span>
+
 <!--
 **Tromineo/Tromineo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

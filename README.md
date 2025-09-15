@@ -1,7 +1,7 @@
 
 #  Oi! Eu sou o Rodrigo! <img src="https://octodex.github.com/images/spidertocat.png" width="15%"></img>
  
-<span>Sou desenvolvedor e gosto de explorar diferentes tecnologias para transformar código em soluções que facilitam/ajudam a vida de pessoas e/ou negocios. Essas são algumas ferramentas que fazem parte do meu dia a dia para que eu consiga fazer isso.</span>
+<span>Sou um desenvolvedor que gosto de explorar diferentes tecnologias para criar e transformar código em soluções que facilitam/ajudam a vida de pessoas e negocios. Além disso, estou sempre buscando novas formas de realizar contribuições significativas para minha comunidade. Essas são algumas ferramentas que fazem parte do meu dia a dia para que eu consiga fazer isso.</span>
 #
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
